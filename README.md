@@ -1,0 +1,1 @@
+Visualizer for the A* path finding algorithm.
